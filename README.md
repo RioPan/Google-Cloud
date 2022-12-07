@@ -37,5 +37,3 @@ Most of this project was completed with little to no-code. After creating a Goog
 - Presentation (video):https://www.youtube.com/watch?v=_eMUIJ5aYVU
 - Slides: https://docs.google.com/presentation/d/1I1O8RF-BELbIO1F2H4nf4koXBiCtqZOFQLuWiPg_-zk/edit?usp=sharing
 - Dashboard: https://datastudio.google.com/s/sgSCJVKFQb8
-
-## References
