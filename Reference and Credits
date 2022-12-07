@@ -1,0 +1,5 @@
+The Twitter Streaming pipeline was setup and built following this tutorial:
+https://developer.twitter.com/en/docs/tutorials/developer-guide--twitter-api-toolkit-for-google-cloud1
+For the AutoMl part:
+Labeled dataset was downloaded from kaggle competition:https://www.kaggle.com/datasets/kazanova/sentiment140
+There was no specific guideline that was followed for the AutoMl part, everything was explored on our own.
