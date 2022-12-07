@@ -16,7 +16,8 @@ For our use case we built a rule to monitor the Apple brand and it's CEO Tim Coo
 - Tim Cook: 131.10026364281
 
 The rule we used to add to the stream was:  
-`curl -X POST 'https://api.twitter.com/2/tweets/search/stream/rules' -H "Content-type: application/json" -H "Authorization: Bearer <<bearer token>>" -d '{"add":[{"value":"context:47.10026364281 OR context:131.10026364281 OR lang:eng"}]}'`
+`curl -X POST 'https://api.twitter.com/2/tweets/search/stream/rules' -H "Content-type: application/json" -H "Authorization: Bearer <<bearer token>>" -d '{"add":[{"value":"context:47.10026364281 OR context:131.10026364281 OR lang:eng"}]}'`  
+
 The final part of this rule limited our search to Tweets in English. 
 
 That summarises our approach for connecting to the Twitter Stream. Every other step follows the guide mentioned above.
