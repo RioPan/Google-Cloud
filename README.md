@@ -26,9 +26,6 @@ We accomplished real-time streaming and machine learning analysis using the Twit
 DataSet sources: Twitter 1.6 Million Sentiment Analysis dataset on Kaggle 
 Tools/Technology used: Google Cloud Pub/Sub, Big Query, AutoML(Vertex AI), Looker Studio
 
-## Instructions
-
-Most of this project was completed with little to no-code. After creating a Google Cloud account the two major steps can be completed by following the instructions below.
 
 
 ## Links
